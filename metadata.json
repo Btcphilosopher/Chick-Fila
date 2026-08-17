@@ -1,0 +1,6 @@
+{
+  "name": "QuickBite",
+  "description": "A premium restaurant mobile app for fast food ordering, food discovery, customisation, and loyalty rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
